@@ -1,0 +1,11 @@
+site:
+  title: Antora Test
+  url: http://dekoder-py.github.io/ascii-antora/
+content:
+  sources:
+    - url: https://github.com/Dekoder-py/ascii-antora.git
+      branches: "main"
+ui:
+  bundle:
+    url: https://github.com/fabianfnc/bocs/blob/master/doc/uibundle.zip?raw=true
+    snapshot: true
